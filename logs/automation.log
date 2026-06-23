@@ -1,0 +1,56 @@
+15:42:10.917 [main] INFO  testCases.TC002_Login - Clicked on login link
+15:42:11.072 [main] INFO  testCases.TC002_Login - Entered email into Email textfield
+15:42:11.177 [main] INFO  testCases.TC002_Login - Entered password into Password textfield
+15:42:11.572 [main] INFO  testCases.TC002_Login - Clicked on Login button
+15:56:50.661 [main] INFO  testCases.TC001_Register - ***Testcase started TC001_Register  ***
+15:56:52.958 [main] INFO  testCases.TC001_Register - Clicked on  Register link
+15:56:53.139 [main] INFO  testCases.TC001_Register - Clicked on  radio button
+15:56:56.259 [main] INFO  testCases.TC001_Register - Entered first name
+15:56:59.370 [main] INFO  testCases.TC001_Register - Entered last name
+15:57:02.534 [main] INFO  testCases.TC001_Register - Entered email id
+15:57:08.719 [main] INFO  testCases.TC001_Register - Entered Pwd and Confirm pwd
+15:58:38.333 [main] INFO  testCases.TC001_Register - Clicked on  Register liuttonnk
+15:58:41.382 [main] INFO  testCases.TC001_Register - Gets the conmfirmation mesg
+15:58:41.382 [main] ERROR testCases.TC001_Register - Test failed 
+15:58:44.897 [main] INFO  testCases.TC002_Login - **TC002_Login testcase started**
+15:58:47.135 [main] INFO  testCases.TC002_Login - Clicked on login link
+15:58:47.298 [main] INFO  testCases.TC002_Login - Entered email into Email textfield
+15:58:47.398 [main] INFO  testCases.TC002_Login - Entered password into Password textfield
+15:58:47.455 [main] INFO  testCases.TC002_Login - Clicked on Login button
+15:58:48.162 [main] INFO  testCases.TC002_Login - Execution Completed
+16:45:11.599 [main] INFO  testCases.TC002_Login - **TC002_Login testcase started**
+16:45:13.011 [main] INFO  testCases.TC002_Login - Clicked on login link
+16:45:13.455 [main] INFO  testCases.TC002_Login - Entered email into Email textfield
+16:45:13.714 [main] INFO  testCases.TC002_Login - Entered password into Password textfield
+16:45:14.796 [main] INFO  testCases.TC002_Login - Clicked on Login button
+16:45:14.900 [main] INFO  testCases.TC002_Login - Execution Completed
+16:54:31.463 [main] INFO  testCases.TC002_Login - **TC002_Login testcase started**
+16:54:32.471 [main] INFO  testCases.TC002_Login - Clicked on login link
+16:54:33.005 [main] INFO  testCases.TC002_Login - Entered email into Email textfield
+16:54:33.342 [main] INFO  testCases.TC002_Login - Entered password into Password textfield
+16:54:34.530 [main] INFO  testCases.TC002_Login - Clicked on Login button
+16:54:34.663 [main] INFO  testCases.TC002_Login - Execution Completed
+16:55:07.102 [main] INFO  testCases.TC002_Login - **TC002_Login testcase started**
+16:55:08.203 [main] INFO  testCases.TC002_Login - Clicked on login link
+16:55:08.698 [main] INFO  testCases.TC002_Login - Entered email into Email textfield
+16:55:09.073 [main] INFO  testCases.TC002_Login - Entered password into Password textfield
+16:55:10.146 [main] INFO  testCases.TC002_Login - Clicked on Login button
+16:55:10.251 [main] INFO  testCases.TC002_Login - Execution Completed
+12:30:16.066 [main] INFO  testCases.TC002_Login - **TC002_Login testcase started**
+12:30:16.631 [main] INFO  testCases.TC002_Login - Clicked on login link
+12:30:17.055 [main] INFO  testCases.TC002_Login - Entered email into Email textfield
+12:30:17.237 [main] INFO  testCases.TC002_Login - Entered password into Password textfield
+12:30:18.204 [main] INFO  testCases.TC002_Login - Clicked on Login button
+12:30:18.292 [main] INFO  testCases.TC002_Login - Execution Completed
+12:30:56.255 [main] INFO  testCases.TC002_Login - **TC002_Login testcase started**
+12:30:58.405 [main] INFO  testCases.TC002_Login - Clicked on login link
+12:30:58.545 [main] INFO  testCases.TC002_Login - Entered email into Email textfield
+12:30:58.651 [main] INFO  testCases.TC002_Login - Entered password into Password textfield
+12:30:59.455 [main] INFO  testCases.TC002_Login - Clicked on Login button
+12:30:59.524 [main] INFO  testCases.TC002_Login - Execution Completed
+15:58:00.315 [main] INFO  testCases.TC002_Login - **TC002_Login testcase started**
+15:58:00.969 [main] INFO  testCases.TC002_Login - Clicked on login link
+15:58:01.208 [main] INFO  testCases.TC002_Login - Entered email into Email textfield
+15:58:01.439 [main] INFO  testCases.TC002_Login - Entered password into Password textfield
+15:58:02.275 [main] INFO  testCases.TC002_Login - Clicked on Login button
+15:58:02.335 [main] INFO  testCases.TC002_Login - Execution Completed
